@@ -8,3 +8,5 @@ ftfy
 wget
 tabulate
 tables
+h5py
+opencv-python
