@@ -1,0 +1,2 @@
+main.py --output outputs/test1 --dataset mini_imagenet --epoch 100 --lr 5e-5 --arch dino_small_patch16 --device cpu --nSupport 5
+main.py --output outputs/test1 --dataset mini_imagenet --epoch 100 --lr 5e-5 --arch dino_small_patch16 --device cpu --nSupport 5

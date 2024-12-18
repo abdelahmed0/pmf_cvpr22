@@ -13,7 +13,6 @@ from torch.utils.tensorboard import SummaryWriter
 from timm.data import Mixup
 from timm.loss import LabelSmoothingCrossEntropy, SoftTargetCrossEntropy
 from timm.scheduler import create_scheduler
-from timm.optim import create_optimizer
 from timm.utils import NativeScaler, get_state_dict, ModelEma
 
 from engine import train_one_epoch, evaluate
